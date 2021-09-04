@@ -11,8 +11,8 @@
 
 ### Go
 
-[TCP server, client 만들기](./tcp/README.md)
-----
+[tcp server, client 만들기](./tcp/README.md)
+
 ## Study
 ### Computer Network
 
