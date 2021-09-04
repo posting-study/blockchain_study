@@ -11,9 +11,10 @@
 
 ### Go 
 
-[TCP server, client](./tcp/)
-[RPC](./rpc/)
-----
+- [TCP server, client](./tcp/)
+- [RPC](./rpc/)
+
+
 ## Study
 ### Computer Network
 
