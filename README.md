@@ -11,8 +11,8 @@
 
 ### Go 
 
-[TCP server, client](./tcp/README.md)
-[RPC](./rpc/README.md)
+[TCP server, client](./tcp/)
+[RPC](./rpc/)
 ----
 ## Study
 ### Computer Network
