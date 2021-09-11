@@ -18,7 +18,7 @@
 ## Study
 ### Computer Network
 
-- [Ehternet, Bridge](./network/ehternet.md)
+- [Ehternet, Bridge](./network/ethernet.md)
 
 ### Operation System
 
