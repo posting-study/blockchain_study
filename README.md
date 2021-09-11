@@ -18,6 +18,8 @@
 ## Study
 ### Computer Network
 
+- [Ehternet, Bridge](./network/ehternet.md)
+
 ### Operation System
 
 ### Irastructure
