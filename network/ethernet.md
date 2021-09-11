@@ -10,7 +10,7 @@
 오늘날의 통신방식을 이해하려면 먼저 이더넷의 동작 원리 부터 알아볼 필요가 있다.  
 이더넷은 `CSMA/CD (Carrier Sense Multiple Access / Collision Detection)` 방식의 기술 기반으로 이루어져있다.
 
-[##_Image|kage@n7Yjm/btreMEhIy7i/GkStUEDbsIBChSAkui5fs1/img.png|alignCenter|width="100%" data-origin-width="921" data-origin-height="639" data-ke-mobilestyle="widthOrigin"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn7Yjm%2FbtreMEhIy7i%2FGkStUEDbsIBChSAkui5fs1%2Fimg.png)
 
   
 `CSMA/CD` 방식은 일종의 눈치게임 입니다. 위의 사진처럼 4대의 컴퓨터가 `Ethernet` 방식으로 연결되어있다고 가정해봅니다. `CSMA/CD` 방식에서는  
@@ -41,7 +41,7 @@
 
 ### :cloud: Collision Domain
 
-[##_Image|kage@bmA96d/btreJhofyfT/JgJ32vNfKhCcxQForfw040/img.png|alignCenter|width="100%" data-origin-width="1179" data-origin-height="617" data-ke-mobilestyle="widthOrigin"|||_##]
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmA96d%2FbtreJhofyfT%2FJgJ32vNfKhCcxQForfw040%2Fimg.png)
 
   
 위에서 `Ethernet`은 연결된 네트워크 끼리 눈치게임을 진행한다고 비유했었습니다.  
