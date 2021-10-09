@@ -9,12 +9,14 @@
 조금 돌아가더라도 기초부터 차근차근 공부해보기로 했다.
 
 ### :checkered_flag:  천릿길도 네트워크 부터!
-1. [Ehternet과 Bridge](./posting/network/ethernet.md)
-2. [Ip를 나누는 Class](./posting/network/ip.md)
-3. [Ip를 나누는 Subnetting](./posting/network/subnet.md)
-4. [Switch의 Spanning Tree Protocol](./posting/network/stp.md)
-5. [Switch의 VLan](./posting/network/vlan.md)
-6. [Router 와 Routing Protocol](./posting/network/router.md)
+1. [Ehternet과 Bridge](./posting/network/1-ethernet.md) `(21-09-11)`
+2. [Ip를 나누는 Class](./posting/network/2-ip.md) `(21-09-18)`
+3. [Ip를 나누는 Subnetting](./posting/network/3-subnet.md) `(21-09-20)`
+4. [Switch의 Spanning Tree Protocol](./posting/network/4-stp.md) `(21-09-25)`
+5. [Switch의 VLan](./posting/network/5-vlan.md) `(21-10-02)`
+6. [Router 와 Routing Protocol](./posting/network/6-router.md) `(21-09-25)`
+7. [통신을 도와주는 기술 NAT](./posting/network/7-nat.md) `(21-10-02)`
+8. [통신을 도와주는 기술 DNS](./posting/network/8-dns.md) `(21-10-09)`
 
 ### 🦕공룡이랑 함께하는 OS
 
