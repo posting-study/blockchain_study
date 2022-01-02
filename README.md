@@ -8,7 +8,7 @@
 사실 그냥 실습 코드를 따라하거나 남이 만든 코드를 베껴서 적으면 어떻게도 만들 수는 있겠지만 어려운 분야인 만큼 그렇게 공부하는 것은 시간 낭비라고 생각되어서
 조금 돌아가더라도 기초부터 차근차근 공부해보기로 했다.
 
-### :checkered_flag:  천릿길도 네트워크 부터!
+### :checkered_flag:  천릿길도 네트워크 부터! `9월 ~ 10월` 
 1. [Ehternet과 Bridge](./posting/network/1-ethernet.md) `(21-09-11)`
 2. [Ip를 나누는 Class](./posting/network/2-ip.md) `(21-09-18)`
 3. [Ip를 나누는 Subnetting](./posting/network/3-subnet.md) `(21-09-20)`
@@ -18,20 +18,22 @@
 7. [통신을 도와주는 기술 NAT](./posting/network/7-nat.md) `(21-10-02)`
 8. [통신을 도와주는 기술 DNS](./posting/network/8-dns.md) `(21-10-09)`
 
-### 🦕공룡이랑 함께하는 OS
+### 🦕공룡이랑 함께하는 OS `11월 ~ 12월`
 
 1. [컴퓨터 구조](./posting/os/1-computer.md) `(21-11-28)`
-1. [프로세스와 스레드](./posting/os/2-process.md) `(21-12-04)`
-1. [동기화와 교착상태](./posting/os/3.md) `(21-12-11)`
-1. [메모리](./posting/os/2-memory.md) `(21-12-16)`
+2. [프로세스와 스레드](./posting/os/2-process.md) `(21-12-04)`
+3. [동기화와 교착상태](./posting/os/3.md) `(21-12-11)`
+4. [메모리](./posting/os/4-memory.md) `(21-12-16)`
+5. [가상메모리](./posting/os/4-memory.md) `(21-12-19)`
+5. [저장장치](./posting/os/4-memory.md) `(21-12-26)`
+7. [파일 시스템](./posting/os/5-file.md) `(21-01-02)`
 
-### 📦 DB에 넣고 저장하자
+### 📦 객체지향이 뭔지 알아? `1월 ~ 2월`
 
-### :computer: OS + Network + DB = Infra?
+### :computer: 자료구조 `3월 ~ 4월`
 
-### :pray: 이제 블록체인 공부해도 될까?
+### 📦 DB에 넣고 저장하자 `5월 ~ 6월`
 
-#### 1. 블록체인이란?
-거래를 블록으로 표현하여 `LinkedList` 형태로 연결한 구조가 되어 각각의 블록들은 `Hash` 를 통해서 다음 블록들을 가리키며, `RSA` 로 암호와되어서 `P2P Network` 를 통해서 관리되는 분산데이터 베이스의 한 형태입니다. 
+### :computer: Infra `7월 ~ 8월`
 
-블록체인은 분산원장 기술이라고 불리기도 합니다. `(DLT : Distributed Ledger Technology `
+### :pray: 이제 블록체인 공부해도 될까? `9월 ~  11월`
