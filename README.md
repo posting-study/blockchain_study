@@ -36,6 +36,8 @@
 4. [구현과 인터페이스](./oop/3-interface.md) `(22-02-13)`
 5. [책임할당](./oop/4-responsibility.md) `(22-02-13)`
 6. [메시지](./oop/5-message.md) `(22-02-20)`
+7. [의존성](./oop/6-dependency.md) `(22-02-27)`
+8. [상속](./oop/7-extends.md) `(22-03-06)`
 
 ### :computer: 자료구조 `4월`
 
