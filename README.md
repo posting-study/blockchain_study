@@ -49,5 +49,11 @@
 6. [BFS (Breadth-Fistch-Search)](./algorithm/5-bfs.md) `(2022-07-30)`
 
 ### :computer: 클라우드와 가상환경 `8월`
+1. [리눅스 기본 명령어 모음](./infra/1-linux.md)
+2. [Nginx 에 SSL 인증서 발급받기](./infra/2-ssl.md)
+3. [리눅스 방화벽](./infra/3-firewall.md)
+4. [서비스 관리자 PM2](./infra/4-pm2.md)
+5. [스크린](./infra/5-screen.md)
+6. [도커](./infra/6-docker.md)
 
 ### :pray: 블록체인을 활용해보자 `9월 ~  10월`
